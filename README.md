@@ -55,7 +55,7 @@ PostgreSQL / Redis
 
 ## Estrutura do projeto
 
-
+```
 app/
  ├── models
  ├── schemas
@@ -63,6 +63,7 @@ app/
  ├── repositories
  ├── routers
  └── core
+```
 
 ---
 
